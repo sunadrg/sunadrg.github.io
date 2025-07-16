@@ -1,0 +1,44 @@
+[
+  {
+    "imageUrl": "https://via.placeholder.com/400x200",
+    "title": "ApeUni FIB Extractor Monorepo",
+    "description": "Unified toolkit for extracting, copying, and exporting 'Fill in the Blank' answers from ApeUni practice pages.",
+    "readMoreUrl": "#",
+    "tags": ["JavaScript", "Userscript", "Chrome Extension", "Monorepo"]
+  },
+  {
+    "imageUrl": "https://via.placeholder.com/400x200",
+    "title": "SaaS IDE Platform",
+    "description": "Next.js IDE inspired by VS Code with real-time collaboration tools.",
+    "readMoreUrl": "#",
+    "tags": ["Next.js", "Convex", "Webhooks", "Clerk"]
+  },
+  {
+    "imageUrl": "https://via.placeholder.com/400x200",
+    "title": "Remote Interview Platform",
+    "description": "Integrated technical interview solution with coding environment.",
+    "readMoreUrl": "#",
+    "tags": ["Next.js", "Stream", "Convex", "Shadcn/ui"]
+  },
+  {
+    "imageUrl": "https://via.placeholder.com/400x200",
+    "title": "ApeUni FIB Extractor Monorepo",
+    "description": "Unified toolkit for extracting, copying, and exporting 'Fill in the Blank' answers from ApeUni practice pages.",
+    "readMoreUrl": "#",
+    "tags": ["JavaScript", "Userscript", "Chrome Extension", "Monorepo"]
+  },
+  {
+    "imageUrl": "https://via.placeholder.com/400x200",
+    "title": "SaaS IDE Platform",
+    "description": "Next.js IDE inspired by VS Code with real-time collaboration tools.",
+    "readMoreUrl": "#",
+    "tags": ["Next.js", "Convex", "Webhooks", "Clerk"]
+  },
+  {
+    "imageUrl": "https://via.placeholder.com/400x200",
+    "title": "Remote Interview Platform",
+    "description": "Integrated technical interview solution with coding environment.",
+    "readMoreUrl": "#",
+    "tags": ["Next.js", "Stream", "Convex", "Shadcn/ui"]
+  }
+] 
