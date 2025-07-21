@@ -1,6 +1,6 @@
 {
-    "name": "my_web_app",
-    "short_name": "my_web_app",
+    "name": "Sunad's Devfolio",
+    "short_name": "Sunad's Devfolio",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
