@@ -1,0 +1,58 @@
+[
+  {
+    "imageUrl": "https://via.placeholder.com/400x200",
+    "title": "Linkable CMS",
+    "description": "Award winning project built exclusively for sugar industries for managing cane procrument process",
+    "readMoreUrl": "#",
+    "tags": ["Android", "Java", "PHP", "MySql", "Volley"]
+  },
+  {
+    "imageUrl": "https://via.placeholder.com/400x200",
+    "title": "GMSEL-MIS",
+    "description": "MIS application developed using Java for Android offering real-time reports, dashboards, and data visualizations through interactive charts and live operational metrics.",
+    "readMoreUrl": "#",
+    "tags": ["Android", "Java", "XML", "mpandroidchart","Mysql","PHP"]
+  },
+  {
+    "imageUrl": "https://via.placeholder.com/400x200",
+    "title": "GMU-Connect",
+    "description": "Academic management app for GM University, built with Flutter, REST APIs, and Firebase. Deployed on Play Store and App Store for students and faculty use.",
+    "readMoreUrl": "#",
+    "tags": ["Flutter", "Dart", "MySql", "PHP"]
+  },
+  {
+    "imageUrl": "https://via.placeholder.com/400x200",
+    "title": "GMU-Campus Link",
+    "description": "Android app for GM University & GMIT to manage outreach and admissions, featuring VoIP calls, automated WhatsApp/SMS follow-ups, and 90% campaign conversion.",
+    "readMoreUrl": "#",
+    "tags": ["Android", "Java", "MySql", "PHP","Cloud-Telephony"]
+  },
+  {
+    "imageUrl": "https://via.placeholder.com/400x200",
+    "title": "Almed – B2B Pharma Marketplace",
+    "description": "Developed user-specific modules including a custom delivery app with live tracking, payments, and messaging. Built with Laravel, Android (Java), Firebase, Razorpay, and WhatsApp API.",
+    "readMoreUrl": "#",
+    "tags": ["Android", "Laravel", "Razorpay", "MySql"]
+  },
+  {
+    "imageUrl": "https://via.placeholder.com/400x200",
+    "title": "Election Campaign App",
+    "description": "Android app built for a local political campaign with pictorial data views, private messaging, and real-time announcements via Firebase FCM.",
+    "readMoreUrl": "#",
+    "tags": ["Java", "In-app Messaging", "Firebase-FCM", "Sqlite"]
+  },
+  {
+    "imageUrl": "https://via.placeholder.com/400x200",
+    "title": "Contacts Management App",
+    "description": "Flutter-based internal directory app for GM Group, enabling quick call, SMS, and WhatsApp actions from contact cards to streamline interdepartmental communication.",
+    "readMoreUrl": "#",
+    "tags": ["Flutter", "Dart", "MySql", "PHP"]
+  },
+  {
+    "imageUrl": "https://via.placeholder.com/400x200",
+    "title": "Ariya",
+    "description": "A feature-rich audio streaming app with core functionalities like play, pause, resume, and skip. Built using Android for the frontend, with PHP and MySQL handling backend operations and content management",
+    "readMoreUrl": "#",
+    "tags": ["Android", "Java", "Music", "Freemium"]
+  }
+] 
